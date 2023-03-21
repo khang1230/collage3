@@ -1,0 +1,25 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#camera{
+    width: 500px;
+    height: 400px;
+    border-color: aquamarine;
+    border-width: 3px;
+}
+
+img{
+    width: 500px;
+    height: 400px;
+    border-color: crimson;
+    border-width: 3px;
+    border-radius: 140px;
+}
